@@ -1,13 +1,20 @@
 # E-Book-IA
-E-Book que fala sobre IA criado por IA.
-Propts usados chatGPT:
-Quais são os tipos de IA?
-Para que serve cada tipo de IA e como usar?
-Como essas IAs funcionam pelo aspecto tecnologico?
-Me exemplos de uso de IA
-COMO A IA APRENDE?
-Prompt Copilot e Leonardo IA :
-Desenhe a evolução da IA's
+E-Book que fala sobre IA criado por IA.\\
+\\
+Propts usados chatGPT: \\
+\\
+Quais são os tipos de IA? \\
+\\
+Para que serve cada tipo de IA e como usar? \\
+\\
+Como essas IAs funcionam pelo aspecto tecnologico? \\
+\\
+Me exemplos de uso de IA COMO A IA APRENDE? \\
+\\
+Prompt Copilot e Leonardo IA: \\
+\\
+Desenhe a evolução da IA's \\
+
 
 https://1drv.ms/p/s!AgnZKpyhDy6BeRs5t3cI4vO_kbc?e=EMpqtU
 
