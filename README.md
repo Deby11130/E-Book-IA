@@ -7,5 +7,6 @@ Como essas IAs funcionam pelo aspecto tecnologico?
 
 Me exemplos de uso de IA
 COMO A IA APRENDE?
+https://1drv.ms/p/s!AgnZKpyhDy6BeRs5t3cI4vO_kbc?e=EMpqtU
 
 
